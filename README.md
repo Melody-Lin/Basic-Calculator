@@ -1,6 +1,6 @@
 # Basic-Calculator
 ### Summary  
-• A basic calculator coded with HTML and javascript   
+• A basic calculator programmed with HTML and javascript   
 • Simulate the interface of Macbook's calculator  
 • The image of the calculator is as follows   
 
